@@ -2,9 +2,9 @@
 
 ## PROJECT 8 - Algebraic Properties
 
-Scientific Programming, A.Y. 2022/2023
+Scientific Programming, A.Y. 2022/2023 - M.Sc. Bioinformatics for computational genomics - Politecnico di Milano, Università degli Studi di Milano
 
-Federica Boselli - matriculation number: 995880, person code: 10605062
+Federica Boselli 
 
 
 ### **Short description** : 
